@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>clickhouse</string>
+    <key>CFBundleName</key>
+    <string>ClickHouse</string>
+    <key>DashDocSetKeyword</key>
+    <string>clickhouse</string>
+    <key>DashDocSetPluginKeyword</key>
+    <string>clickhouse</string>
+    <key>DocSetPlatformFamily</key>
+    <string>clickhouse</string>
+    <key>dashIndexFilePath</key>
+    <string>VERSION/index.html</string>
+    <key>isDashDocset</key>
+    <true/>
+    <key>isJavaScriptEnabled</key>
+    <true/>
+</dict>
+</plist>
