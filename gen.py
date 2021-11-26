@@ -7,9 +7,10 @@ import sys
 from bs4 import BeautifulSoup
 
 if len(sys.argv) != 2:
-    print("gen.py {version}")
-    # sys.exit(1)
-    V = "v21.9.4.35"
+    print("gen.py {version}\nAvailable versions:")
+    for v in os.listdir("Documents"):
+        print(f"---> {v}")
+    sys.exit(1)
 else:
     V = sys.argv[1]
 
@@ -60,6 +61,11 @@ visit_tree(os.path.join(docpath, "sql-reference/functions"), gen_index, "Functio
 visit_tree(os.path.join(docpath, "sql-reference/aggregate-functions"), gen_index, "Function")
 visit_tree(os.path.join(docpath, "sql-reference/aggregate-functions"), gen_index, "Function", "h1")
 visit_tree(os.path.join(docpath, "sql-reference/statements"), gen_index, "Statement", "h1")
+visit_tree(os.path.join(docpath, "sql-reference/data-types"), gen_index, "Type", "h1")
+visit_tree(os.path.join(docpath, "sql-reference/table-functions"), gen_index, "Function", "h1")
+visit_tree(os.path.join(docpath, "engines/table-engines"), gen_index, "Guide", "h1")
+visit_tree(os.path.join(docpath, "engines/database-engines"), gen_index, "Guide", "h1")
+visit_tree(os.path.join(docpath, "operations/settings"), gen_index, "Setting", "h2")
 
 
 db.commit()
