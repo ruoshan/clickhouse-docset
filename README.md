@@ -11,3 +11,15 @@ The doc can be built using the canonical repo with some `mkdocs` tweak.
   ```
   ./build.py --skip-single-page --skip-pdf --lang en --theme-dir PATH_TO_THIS_REPO/mkdocs_tmpl
   ```
+
+Add the following lines to the `base.css`:
+
+```
+[id]::before {
+  content: '';
+  display: block;
+  height:      75px;
+  margin-top: -75px;
+  visibility: hidden;
+}
+```
