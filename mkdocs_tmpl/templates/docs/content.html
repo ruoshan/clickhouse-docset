@@ -14,7 +14,7 @@
                         {% if ancestor_title.endswith('|hidden-folder') %}
                             {% set ancestor_title = ancestor_title[:-14] %}
                         {% endif %}
-                        <li class="breadcrumb-item"><a href="{{ ('../' * ancestor_ns.level) + 'index.html' }}" class="text-reset">{{ ancestor_title }}</a>
+                        <li class="breadcrumb-item"><a href="{{ ('../' * (ancestor_ns.level - 1)) + 'index.html' }}" class="text-reset">{{ ancestor_title }}</a>
                             {% set ancestor_ns.level = ancestor_ns.level - 1 %}
                         </li>
                        {% endfor %}
