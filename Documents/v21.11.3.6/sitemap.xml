@@ -1,2007 +1,2007 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://clickhouse.com/docs/en/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/introduction/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/introduction/distinctive-features.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/introduction/performance.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/introduction/history.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/introduction/adopters.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/github-events.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/metrica.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/recipes.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/star-schema.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/wikistat.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/criteo.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/amplab-benchmark.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/brown-benchmark.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/nyc-taxi.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/opensky.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/uk-price-paid.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/cell-towers.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/menus.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/example-datasets/ontime.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/install.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/tutorial.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/getting-started/playground.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/cli.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/tcp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/http.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/mysql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/formats.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/jdbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/odbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/cpp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/third-party/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/third-party/client-libraries.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/third-party/integrations.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/third-party/gui.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/interfaces/third-party/proxy.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/odbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/jdbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/mysql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/mongodb.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/hdfs.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/s3.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/sqlite.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/kafka.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/embedded-rocksdb.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/rabbitmq.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/postgresql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/ExternalDistributed.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/integrations/materialized-postgresql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/mergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/replication.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/custom-partitioning-key.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/replacingmergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/summingmergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/aggregatingmergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/collapsingmergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/versionedcollapsingmergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/mergetree-family/graphitemergetree.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/log-family/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/log-family/stripelog.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/log-family/log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/log-family/tinylog.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/distributed.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/dictionary.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/merge.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/file.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/null.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/set.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/join.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/url.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/view.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/materializedview.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/memory.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/buffer.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/external-data.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/table-engines/special/generate.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/materialized-mysql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/materialized-postgresql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/mysql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/lazy.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/atomic.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/sqlite.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/postgresql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/engines/database-engines/replicated.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/all.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/array-join.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/distinct.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/except.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/format.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/from.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/group-by.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/having.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/intersect.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/into-outfile.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/join.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/limit.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/limit-by.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/offset.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/order-by.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/prewhere.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/sample.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/union.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/where.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/select/with.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/insert-into.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/database.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/table.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/view.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/dictionary.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/function.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/user.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/role.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/row-policy.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/quota.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/create/settings-profile.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/column.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/partition.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/setting.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/delete.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/update.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/order-by.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/sample-by.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/index/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/constraint.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/ttl.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/user.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/quota.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/role.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/row-policy.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/settings-profile.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/projection.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/alter/view.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/system.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/show.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/grant.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/explain.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/revoke.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/attach.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/check-table.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/misc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/describe-table.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/detach.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/drop.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/exists.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/kill.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/optimize.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/rename.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/exchange.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/set.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/set-role.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/truncate.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/use.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/statements/watch.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/syntax.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/distributed-ddl.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/arithmetic-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/array-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/comparison-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/logical-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/type-conversion-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/date-time-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/string-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/string-search-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/string-replace-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/conditional-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/files.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/math-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/rounding-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/tuple-map-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/splitting-merging-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/bit-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/bitmap-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/hash-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/random-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/encoding-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/uuid-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/url-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/ip-address-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/json-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/ext-dict-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/ym-dict-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/in-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/array-join.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/geo/coordinates.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/geo/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/geo/geohash.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/geo/h3.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/geo/s2.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/functions-for-nulls.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/machine-learning-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/introspection.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/tuple-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/encryption-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/nlp-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/functions/other-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/count.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/min.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/max.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/sum.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/avg.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/any.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/stddevpop.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/stddevsamp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/varpop.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/varsamp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/covarpop.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/covarsamp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/anyheavy.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/anylast.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/argmin.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/argmax.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/avgweighted.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/corr.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/topk.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/topkweighted.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/grouparray.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupuniqarray.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/grouparrayinsertat.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/grouparraymovingsum.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/grouparraymovingavg.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/grouparraysample.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitand.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitor.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitxor.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitmap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitmapand.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitmapor.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/groupbitmapxor.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/sumwithoverflow.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/deltasum.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/deltasumtimestamp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/summap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/minmap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/maxmap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/sumcount.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/rankCorr.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/sumkahan.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/intervalLengthSum.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/skewpop.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/skewsamp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/kurtpop.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/kurtsamp.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/uniq.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/uniqexact.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/uniqcombined.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/uniqcombined64.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/uniqhll12.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/uniqthetasketch.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantile.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantiles.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantileexact.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantileexactweighted.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantiletiming.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantiletimingweighted.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantiledeterministic.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantiletdigest.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantiletdigestweighted.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/quantilebfloat16.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/median.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/simplelinearregression.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/stochasticlinearregression.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/stochasticlogisticregression.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/categoricalinformationvalue.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/studentttest.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/welchttest.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/entropy.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/reference/mannwhitneyutest.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/combinators.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/aggregate-functions/parametric-functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/file.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/merge.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/numbers.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/remote.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/url.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/mysql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/postgresql.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/jdbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/odbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/hdfs.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/s3.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/input.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/generate.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/cluster.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/view.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/null.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/dictionary.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/s3Cluster.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/table-functions/sqlite.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict-layout.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict-lifetime.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict-sources.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict-structure.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict-hierarchical.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/external-dictionaries/external-dicts-dict-polygon.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/dictionaries/internal-dicts.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/int-uint.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/float.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/decimal.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/boolean.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/string.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/fixedstring.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/uuid.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/date.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/date32.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/datetime.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/datetime64.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/enum.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/lowcardinality.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/array.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/aggregatefunction.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/nested-data-structures/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/nested-data-structures/nested.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/tuple.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/nullable.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/special-data-types/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/special-data-types/expression.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/special-data-types/set.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/special-data-types/nothing.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/special-data-types/interval.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/domains/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/domains/ipv4.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/domains/ipv6.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/multiword-types.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/geo.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/map.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/data-types/simpleaggregatefunction.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/operators/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/operators/in.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/ansi.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/sql-reference/window-functions/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/guides/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/guides/apply-catboost-model.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/requirements.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/monitoring.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/ssl-zookeeper.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/troubleshooting.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/update.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/access-rights.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/external-authenticators/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/external-authenticators/kerberos.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/external-authenticators/ldap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/backup.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/configuration-files.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/quotas.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/optimizing-performance/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/optimizing-performance/sampling-query-profiler.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/information_schema.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/asynchronous_metric_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/asynchronous_metrics.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/clusters.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/columns.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/contributors.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/crash-log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/current-roles.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/data_skipping_indices.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/data_type_families.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/databases.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/detached_parts.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/dictionaries.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/disks.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/distributed_ddl_queue.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/distribution_queue.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/enabled-roles.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/errors.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/events.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/functions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/grants.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/graphite_retentions.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/licenses.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/merge_tree_settings.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/merges.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/metric_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/metrics.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/mutations.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/numbers.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/numbers_mt.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/one.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/opentelemetry_span_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/part_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/parts.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/parts_columns.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/processes.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/query_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/query_thread_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/query_views_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/quota_limits.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/quota_usage.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/quotas.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/quotas_usage.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/replicas.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/replicated_fetches.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/replication_queue.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/role-grants.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/roles.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/row_policies.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/settings.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/settings_profile_elements.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/settings_profiles.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/stack_trace.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/storage_policies.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/table_engines.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/tables.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/text_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/time_zones.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/trace_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/users.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/zookeeper.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/system-tables/zookeeper_log.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/server-configuration-parameters/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/server-configuration-parameters/settings.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/performance-test.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/permissions-for-queries.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/query-complexity.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/settings-profiles.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/constraints-on-settings.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/settings-users.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/merge-tree-settings.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/settings/settings.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/clickhouse-copier.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/clickhouse-local.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/clickhouse-benchmark.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/clickhouse-format.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/clickhouse-compressor.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/clickhouse-obfuscator.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/utilities/odbc-bridge.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/opentelemetry.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/caches.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/clickhouse-keeper.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/storing-data.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/operations/tips.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/developer-instruction.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/architecture.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/continuous-integration.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/build.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/build-osx.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/build-cross-osx.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/build-cross-arm.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/style.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/tests.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/contrib.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/browse-code.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/cmake-in-clickhouse.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/development/adding_test_queries.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/commercial/cloud.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/commercial/support.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/commercial/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/why-clickhouse-is-so-fast.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/who-is-using-clickhouse.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/dbms-naming.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/ne-tormozit.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/olap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/columnar-database.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/general/mapreduce.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/use-cases/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/use-cases/key-value.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/use-cases/time-series.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/operations/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/operations/production.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/operations/delete-old-data.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/integration/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/integration/file-export.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/integration/json-import.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/integration/oracle-odbc.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/faq/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/changelog/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/changelog/2020.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/changelog/2019.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/changelog/2018.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/changelog/2017.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/roadmap.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/security-changelog.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://clickhouse.com/docs/en/whats-new/index.html</loc>
-     <lastmod>2021-11-18</lastmod>
+     <lastmod>2021-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
