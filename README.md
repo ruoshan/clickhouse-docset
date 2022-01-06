@@ -13,7 +13,8 @@ The doc can be built using the canonical repo with some `mkdocs` tweak.
   ```
 
 The mkdocs\_tmpl was copied from the `clickhouse/website` and some changes were made to the templates.
-eg. The following lines have been added to the `mkdocs_tmpl/css/base.css`:
+
+The following lines should be added to the `website/css/base.css`:
 
 ```
 [id]::before {
