@@ -1,0 +1,21 @@
+From e9830915fa2147b724844a22187499e7b73b757e Mon Sep 17 00:00:00 2001
+From: Ruoshan Huang <ruoshan.huang@gmail.com>
+Date: Fri, 17 Dec 2021 16:23:21 +0800
+Subject: [PATCH 3/6] update run.sh
+
+---
+ docs/tools/run.sh | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/docs/tools/run.sh b/docs/tools/run.sh
+index 558af4844a..40082b460e 100755
+--- a/docs/tools/run.sh
++++ b/docs/tools/run.sh
+@@ -1,3 +1,3 @@
+ #!/bin/bash
+ 
+-./build.py --skip-pdf  --lang en --skip-website --skip-single-page
++./build.py --lang en --skip-single-page --theme-dir "../mkdocs_tmpl"
+-- 
+2.32.0 (Apple Git-132)
+

@@ -1,0 +1,45 @@
+From c27baf0f064ee0c417eacb50a02343cd56107807 Mon Sep 17 00:00:00 2001
+From: Ruoshan Huang <ruoshan.huang@gmail.com>
+Date: Thu, 6 Jan 2022 14:01:45 +0800
+Subject: [PATCH 5/6] update css
+
+---
+ mkdocs_tmpl/css/base.css | 8 ++++++++
+ website/css/base.css     | 8 ++++++++
+ 2 files changed, 16 insertions(+)
+
+diff --git a/mkdocs_tmpl/css/base.css b/mkdocs_tmpl/css/base.css
+index b65c8e869f..1ecdb8530e 100644
+--- a/mkdocs_tmpl/css/base.css
++++ b/mkdocs_tmpl/css/base.css
+@@ -193,3 +193,11 @@ a.btn-outline-yellow {
+ .height-20 {
+     height: 20px;
+ }
++
++[id]::before {
++  content: '';
++  display: block;
++  height:      75px;
++  margin-top: -75px;
++  visibility: hidden;
++}
+diff --git a/website/css/base.css b/website/css/base.css
+index b65c8e869f..1ecdb8530e 100644
+--- a/website/css/base.css
++++ b/website/css/base.css
+@@ -193,3 +193,11 @@ a.btn-outline-yellow {
+ .height-20 {
+     height: 20px;
+ }
++
++[id]::before {
++  content: '';
++  display: block;
++  height:      75px;
++  margin-top: -75px;
++  visibility: hidden;
++}
+-- 
+2.32.0 (Apple Git-132)
+

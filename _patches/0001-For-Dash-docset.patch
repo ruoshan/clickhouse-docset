@@ -1,0 +1,58 @@
+From b3a4bdca3ec417ba584e330211ef4b0f0be5094a Mon Sep 17 00:00:00 2001
+From: Ruoshan Huang <ruoshan.huang@gmail.com>
+Date: Mon, 22 Nov 2021 14:44:47 +0800
+Subject: [PATCH 1/6] For Dash docset
+
+---
+ docs/tools/.envrc     | 4 ++++
+ docs/tools/.gitignore | 1 +
+ docs/tools/build.py   | 2 +-
+ docs/tools/run.sh     | 3 +++
+ 4 files changed, 9 insertions(+), 1 deletion(-)
+ create mode 100644 docs/tools/.envrc
+ create mode 100755 docs/tools/run.sh
+
+diff --git a/docs/tools/.envrc b/docs/tools/.envrc
+new file mode 100644
+index 0000000000..0dbf5b46b7
+--- /dev/null
++++ b/docs/tools/.envrc
+@@ -0,0 +1,4 @@
++#layout python
++source .venv/bin/activate
++layout node
++unset PS1
+diff --git a/docs/tools/.gitignore b/docs/tools/.gitignore
+index 443cee8638..7b732f7b1e 100644
+--- a/docs/tools/.gitignore
++++ b/docs/tools/.gitignore
+@@ -1,3 +1,4 @@
+ build
+ __pycache__
+ *.pyc
++.venv/
+diff --git a/docs/tools/build.py b/docs/tools/build.py
+index 785928cf4a..f39b618fe0 100755
+--- a/docs/tools/build.py
++++ b/docs/tools/build.py
+@@ -96,7 +96,7 @@ def build_for_lang(lang, args):
+             strict=True,
+             theme=theme_cfg,
+             copyright='©2016–2021 ClickHouse, Inc.',
+-            use_directory_urls=True,
++            use_directory_urls=False,
+             repo_name='ClickHouse/ClickHouse',
+             repo_url='https://github.com/ClickHouse/ClickHouse/',
+             edit_uri=f'edit/master/docs/{lang}',
+diff --git a/docs/tools/run.sh b/docs/tools/run.sh
+new file mode 100755
+index 0000000000..558af4844a
+--- /dev/null
++++ b/docs/tools/run.sh
+@@ -0,0 +1,3 @@
++#!/bin/bash
++
++./build.py --skip-pdf  --lang en --skip-website --skip-single-page
+-- 
+2.32.0 (Apple Git-132)
+
