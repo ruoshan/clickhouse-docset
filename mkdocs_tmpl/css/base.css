@@ -193,3 +193,11 @@ a.btn-outline-yellow {
 .height-20 {
     height: 20px;
 }
+
+[id]::before {
+  content: '';
+  display: block;
+  height:      75px;
+  margin-top: -75px;
+  visibility: hidden;
+}
