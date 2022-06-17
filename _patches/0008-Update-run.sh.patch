@@ -1,0 +1,25 @@
+From 45f6e89668071e347d01ff8ab170dfcffe90586b Mon Sep 17 00:00:00 2001
+From: Ruoshan Huang <ruoshan.huang@gmail.com>
+Date: Fri, 17 Jun 2022 13:39:17 +0800
+Subject: [PATCH 8/8] Update run.sh
+
+the base.css and .js file are moved
+---
+ docs/tools/run.sh | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/docs/tools/run.sh b/docs/tools/run.sh
+index c460f7e7ad..53a05dc45e 100755
+--- a/docs/tools/run.sh
++++ b/docs/tools/run.sh
+@@ -2,5 +2,5 @@
+ 
+ ./build.py --lang en --skip-single-page --theme-dir "../mkdocs_tmpl"
+ 
+-cp -f ../build/css/base.css ../build/docs/en/css/base.css
+-cp -f ../build/js/base.js ../build/docs/en/js/base.js
++cp -f ../build/docs/css/base.css ../build/docs/en/css/base.css
++cp -f ../build/docs/js/base.js ../build/docs/en/js/base.js
+-- 
+2.32.1 (Apple Git-133)
+
