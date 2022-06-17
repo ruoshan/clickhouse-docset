@@ -2,6 +2,7 @@
 
 if [ $# -ne 1 ]; then
     echo "./build.sh version"
+    ./gen.py
     exit 1
 fi
 
