@@ -1,14 +1,14 @@
-From cd4834c27fb6edcd1b55e97f6ecdec042ec724ee Mon Sep 17 00:00:00 2001
+From 0f2c9a374a709b8d9e81e7350113ff5beea33e26 Mon Sep 17 00:00:00 2001
 From: Ruoshan Huang <ruoshan.huang@gmail.com>
 Date: Thu, 6 Jan 2022 14:01:24 +0800
-Subject: [PATCH 4/6] Fix create into statement
+Subject: [PATCH 4/7] Fix create into statement
 
 ---
  docs/en/sql-reference/statements/insert-into.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/docs/en/sql-reference/statements/insert-into.md b/docs/en/sql-reference/statements/insert-into.md
-index c36f1b1c9c..ae9d63e5e5 100644
+index f8eefad705..f71a2a138b 100644
 --- a/docs/en/sql-reference/statements/insert-into.md
 +++ b/docs/en/sql-reference/statements/insert-into.md
 @@ -3,7 +3,7 @@ toc_priority: 33
@@ -21,5 +21,5 @@ index c36f1b1c9c..ae9d63e5e5 100644
  Inserts data into a table.
  
 -- 
-2.32.0 (Apple Git-132)
+2.32.1 (Apple Git-133)
 

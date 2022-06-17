@@ -1,7 +1,7 @@
-From 672237f0414ad84663e88814c566a2e5c2eb9ca2 Mon Sep 17 00:00:00 2001
+From e07ec2e27635967253c2ec37ffd3fafa241393cb Mon Sep 17 00:00:00 2001
 From: Ruoshan Huang <ruoshan.huang@gmail.com>
 Date: Thu, 6 Jan 2022 14:01:56 +0800
-Subject: [PATCH 6/6] update run.sh
+Subject: [PATCH 6/7] update run.sh
 
 ---
  docs/tools/run.sh | 3 +++
@@ -19,5 +19,5 @@ index 40082b460e..c460f7e7ad 100755
 +cp -f ../build/css/base.css ../build/docs/en/css/base.css
 +cp -f ../build/js/base.js ../build/docs/en/js/base.js
 -- 
-2.32.0 (Apple Git-132)
+2.32.1 (Apple Git-133)
 

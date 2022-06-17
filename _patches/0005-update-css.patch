@@ -1,7 +1,7 @@
-From c27baf0f064ee0c417eacb50a02343cd56107807 Mon Sep 17 00:00:00 2001
+From ffc802bb4ffb32e17d4b06dad3f96f4694a93c87 Mon Sep 17 00:00:00 2001
 From: Ruoshan Huang <ruoshan.huang@gmail.com>
 Date: Thu, 6 Jan 2022 14:01:45 +0800
-Subject: [PATCH 5/6] update css
+Subject: [PATCH 5/7] update css
 
 ---
  mkdocs_tmpl/css/base.css | 8 ++++++++
@@ -25,12 +25,12 @@ index b65c8e869f..1ecdb8530e 100644
 +  visibility: hidden;
 +}
 diff --git a/website/css/base.css b/website/css/base.css
-index b65c8e869f..1ecdb8530e 100644
+index d81b231789..673b2ed9d3 100644
 --- a/website/css/base.css
 +++ b/website/css/base.css
-@@ -193,3 +193,11 @@ a.btn-outline-yellow {
- .height-20 {
-     height: 20px;
+@@ -201,3 +201,11 @@ ol.default{
+ ol.default li{
+ 	margin-bottom: 10px;
  }
 +
 +[id]::before {
@@ -41,5 +41,5 @@ index b65c8e869f..1ecdb8530e 100644
 +  visibility: hidden;
 +}
 -- 
-2.32.0 (Apple Git-132)
+2.32.1 (Apple Git-133)
 

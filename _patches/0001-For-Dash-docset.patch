@@ -1,14 +1,14 @@
-From b3a4bdca3ec417ba584e330211ef4b0f0be5094a Mon Sep 17 00:00:00 2001
+From db053ceb759393d9b94980c00943d8836798e942 Mon Sep 17 00:00:00 2001
 From: Ruoshan Huang <ruoshan.huang@gmail.com>
 Date: Mon, 22 Nov 2021 14:44:47 +0800
-Subject: [PATCH 1/6] For Dash docset
+Subject: [PATCH 1/7] For Dash docset
 
 ---
- docs/tools/.envrc     | 4 ++++
- docs/tools/.gitignore | 1 +
- docs/tools/build.py   | 2 +-
- docs/tools/run.sh     | 3 +++
- 4 files changed, 9 insertions(+), 1 deletion(-)
+ docs/tools/.envrc     |  4 ++++
+ docs/tools/.gitignore |  1 +
+ docs/tools/build.py   | 10 +++++-----
+ docs/tools/run.sh     |  3 +++
+ 4 files changed, 13 insertions(+), 5 deletions(-)
  create mode 100644 docs/tools/.envrc
  create mode 100755 docs/tools/run.sh
 
@@ -32,18 +32,26 @@ index 443cee8638..7b732f7b1e 100644
  *.pyc
 +.venv/
 diff --git a/docs/tools/build.py b/docs/tools/build.py
-index 785928cf4a..f39b618fe0 100755
+index 612be0229d..e71b11bde9 100755
 --- a/docs/tools/build.py
 +++ b/docs/tools/build.py
-@@ -96,7 +96,7 @@ def build_for_lang(lang, args):
+@@ -95,11 +95,11 @@ def build_for_lang(lang, args):
+             site_dir=site_dir,
              strict=True,
              theme=theme_cfg,
-             copyright='©2016–2021 ClickHouse, Inc.',
+-            copyright="©2016–2022 ClickHouse, Inc.",
 -            use_directory_urls=True,
+-            repo_name="ClickHouse/ClickHouse",
+-            repo_url="https://github.com/ClickHouse/ClickHouse/",
+-            edit_uri=f"edit/master/docs/{lang}",
++            copyright='©2016–2022 ClickHouse, Inc.',
 +            use_directory_urls=False,
-             repo_name='ClickHouse/ClickHouse',
-             repo_url='https://github.com/ClickHouse/ClickHouse/',
-             edit_uri=f'edit/master/docs/{lang}',
++            repo_name='ClickHouse/ClickHouse',
++            repo_url='https://github.com/ClickHouse/ClickHouse/',
++            edit_uri=f'edit/master/docs/{lang}',
+             markdown_extensions=mdx_clickhouse.MARKDOWN_EXTENSIONS,
+             plugins=plugins,
+             extra=dict(
 diff --git a/docs/tools/run.sh b/docs/tools/run.sh
 new file mode 100755
 index 0000000000..558af4844a
@@ -54,5 +62,5 @@ index 0000000000..558af4844a
 +
 +./build.py --skip-pdf  --lang en --skip-website --skip-single-page
 -- 
-2.32.0 (Apple Git-132)
+2.32.1 (Apple Git-133)
 

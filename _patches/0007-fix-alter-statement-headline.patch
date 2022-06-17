@@ -1,0 +1,25 @@
+From e12a81ae08d6f59151b80bca65f50084c9af3799 Mon Sep 17 00:00:00 2001
+From: Ruoshan Huang <ruoshan.huang@gmail.com>
+Date: Mon, 7 Mar 2022 13:31:25 +0800
+Subject: [PATCH 7/7] fix alter statement headline
+
+---
+ docs/en/sql-reference/statements/alter/index.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/docs/en/sql-reference/statements/alter/index.md b/docs/en/sql-reference/statements/alter/index.md
+index 0d5909518e..3c507b93ae 100644
+--- a/docs/en/sql-reference/statements/alter/index.md
++++ b/docs/en/sql-reference/statements/alter/index.md
+@@ -3,7 +3,7 @@ toc_priority: 35
+ toc_title: ALTER
+ ---
+ 
+-## ALTER {#query_language_queries_alter}
++# ALTER {#query_language_queries_alter}
+ 
+ Most `ALTER TABLE` queries modify table settings or data:
+ 
+-- 
+2.32.1 (Apple Git-133)
+
